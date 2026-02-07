@@ -20,12 +20,12 @@ Durante a análise, foram identificados pontos chave para o negócio:
 
 A fase de preparação utilizou técnicas de Pandas para garantir a qualidade dos dados:
 1. **Tratamento de Nulos:** Imputação de 37 valores ausentes na coluna `Review Rating` utilizando a mediana por categoria.
-2. **Engenharia de Dados:** Criação da coluna `age_group` e conversão de frequências de compra em períodos numéricos[cite: 2].
-3. **Integração SQL:** Exportação dos dados limpos para PostgreSQL via SQLAlchemy para análises relacionais[cite: 2].
+2. **Engenharia de Dados:** Criação da coluna `age_group` e conversão de frequências de compra em períodos numéricos.
+3. **Integração SQL:** Exportação dos dados limpos para PostgreSQL via SQLAlchemy para análises relacionais.
 
 ## 📊 Dashboard
 
-![Screenshot do Dashboard](img/Dashboard_img.png)
+![Screenshot do Dashboard](img/Dashboard%20img.png)
 *O dashboard interativo permite filtrar dados por gênero, status de assinatura e categoria de produto.*
 
 ## ✒️ Autor
