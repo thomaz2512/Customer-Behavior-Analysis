@@ -4,8 +4,8 @@
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Python 3.x**: Processamento e limpeza de dados[cite: 2].
-* **Pandas**: Manipulação de DataFrames e Engenharia de Atributos[cite: 2].
+* **Python 3.x**: Processamento e limpeza de dados.
+* **Pandas**: Manipulação de DataFrames e Engenharia de Atributos.
 * **SQL (PostgreSQL)**: Consultas estruturadas para análise de receita e segmentação.
 * **Power BI**: Criação de dashboard interativo para visualização de insights.
 
