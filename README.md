@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis 🛒
 
-[cite_start]Este projeto realiza uma análise detalhada do comportamento de compra de clientes com base em um dataset de 3.900 registros transacionais. O objetivo é identificar padrões de consumo, segmentar clientes por faixa etária e avaliar o impacto de assinaturas e métodos de envio no faturamento total.
+Este projeto realiza uma análise detalhada do comportamento de compra de clientes com base em um dataset de 3.900 registros transacionais. O objetivo é identificar padrões de consumo, segmentar clientes por faixa etária e avaliar o impacto de assinaturas e métodos de envio no faturamento total.
 
 ## 🚀 Tecnologias Utilizadas
 
